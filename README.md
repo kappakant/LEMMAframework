@@ -1,5 +1,7 @@
 # Is Less Really More? Fake News Detection with Limited Information
 
+Paper link: https://kdd.org/exploration_files/p20-Is_Less_Really_More.pdf
+
 # Limited Information 
 KeyWords - Extracts keywords
 
@@ -40,4 +42,4 @@ Requirements.txt lists required packages for running SLIM files. Please refer to
 
 If you use this work, please cite:
 
-Author(s). (Year). Title of the Paper. Journal Name, Volume(Issue), Page numbers. DOI: [DOI link]
+Zhaoyang Cao, John Nguyen, and Reza Zafarani. 2025. Is Less Really More? Fake News Detection with Limited Information. SIGKDD Explor. Newsl. 27, 1 (June 2025), 20–31. https://doi.org/10.1145/3748239.3748243
